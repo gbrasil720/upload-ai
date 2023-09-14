@@ -1,0 +1,6 @@
+upload-ai-api/node_modules/
+upload-ai-api/.env
+upload-ai-api/pnpm-lock.yaml
+
+upload-ai-web/node_modules/
+upload-ai-web/pnpm-lock.yaml
