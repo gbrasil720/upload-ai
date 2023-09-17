@@ -32,4 +32,4 @@
 
 <p>Aplicação full-stack front-end e back-end.</p>
 
-<img align="center"  style="border-radius: 20px;" src="./src/assets/layout.png">
+<img align="center"  style="border-radius: 20px;" src="https://raw.githubusercontent.com/paulohenriquelemos/nlw-ai/main/src/assets/layout.png">
